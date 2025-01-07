@@ -38,6 +38,8 @@ Contributions are welcome! Please fork the repository, create a new branch, and 
 This project is licensed under the [FCAI-AhmedAmir].
 
 Tools
+
+
 ويقول ﷺ: ما من مؤمن يدعو لأخيه بظهر الغيب إلا قال الملك الموكل: آمين ولك بمثله فدعوة المسلم لأخيه المسلم في ظهر الغيب مستجابة، فأنت يا أخي على خير إذا دعوت لأخيك تنفعه وتنفع نفسك، الملك يؤمن ويدعو لك 
 
 ==> "نسأل الله أن تذكرونا في دعائكم، ولكم الأجر والمثل بإذن الله." ❤️
