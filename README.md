@@ -1,4 +1,5 @@
 # FCAI-OOP-JAVA-PROJECT
+
 🛠️ Description
 This project is a demonstration of Object-Oriented Programming (OOP) principles in action. It showcases how to apply OOP concepts such as encapsulation, inheritance, polymorphism, and abstraction to build clean, modular, and maintainable code.
 
@@ -10,6 +11,7 @@ Abstraction: Provides a clear and simplified interface for complex logic.
 Designed using SOLID principles to enhance code readability and maintainability.
 🔧 Technology Stack
 Programming Language: [Java]
+
 🚀 How to Use
 Clone the repository:
 bash
@@ -27,12 +29,15 @@ Copy code
 MainFile  
 ├── src/  
 │   ├── Package/  
-│   │   ├── [Classes Files]  
-├── docs/  
-├── README.md  
+│   │   ├── [Classes Files.JAVA]    
 └── LICENSE  
 🌟 Contributing
 Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request.
 
 📝 License
 This project is licensed under the [FCAI-AhmedAmir].
+
+Tools
+ويقول ﷺ: ما من مؤمن يدعو لأخيه بظهر الغيب إلا قال الملك الموكل: آمين ولك بمثله فدعوة المسلم لأخيه المسلم في ظهر الغيب مستجابة، فأنت يا أخي على خير إذا دعوت لأخيك تنفعه وتنفع نفسك، الملك يؤمن ويدعو لك 
+
+==> "نسأل الله أن تذكرونا في دعائكم، ولكم الأجر والمثل بإذن الله." ❤️
